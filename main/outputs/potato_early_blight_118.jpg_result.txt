@@ -1,0 +1,6 @@
+Image: potato_early_blight_118.jpg
+Plant Type: Potato
+Disease Type: rice bacterial blight
+Initial Severity: general
+Disease Prompt: irregular lesions
+Final Severity Level: 3
